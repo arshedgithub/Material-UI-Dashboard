@@ -52,7 +52,7 @@ const routes = [
   {
     type: "collapse",
     name: "My Schedule",
-    key: "my schedule",
+    key: "my-schedule",
     icon: <Icon fontSize="small">receipt_long</Icon>,
     route: "/my-schedule",
     component: <Dashboard />,
@@ -60,7 +60,7 @@ const routes = [
   {
     type: "collapse",
     name: "Overall Schedule",
-    key: "overall schedule",
+    key: "overall-schedule",
     icon: <Icon fontSize="small">receipt_long</Icon>,
     route: "/overall-schedule",
     component: <Dashboard />,
